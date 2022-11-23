@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dannaelizabeth&label=Profile%20views&color=0e75b6&style=flat" alt="dannaelizabeth" /> </p>
 <h3 align="center">Full Stack Developer</h3>
-<img align="right" alt="foto" width"25" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 
 <div>
 <h3 align="center">Sobre mi:</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dannaelizabeth&label=Profile%20views&color=0e75b6&style=flat" alt="dannaelizabeth" /> </p>
 Soy una persona que le gusta desarrollarse tanto personal como profesionalmente en todos los ámbitos posibles, en búsqueda de nuevos desafíos para seguir creciendo. 
 Estudié informática para aprender a programar, porque programar te permite crear soluciones a problemas.Soy una persona a la que le gusta ver resultados y la programación me permite crear programas y verlos funcionar desde ese mismo instante,
 la programación te pone a pensar y desarrolla una capacidad de análisis y abstracción que supera muchas otras y te hace sentir bien contigo mismo, satisfecho y realizado.😄😄😄
