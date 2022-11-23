@@ -1,10 +1,10 @@
 ### Holaaa! Mi nombre es Danna Rengel👋
 
-
-<h3 align="center">Full Stack Developer</h3>
-<img align="right" alt="foto" width"400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dannaelizabeth&label=Profile%20views&color=0e75b6&style=flat" alt="dannaelizabeth" /> </p>
+<h3 align="center">Full Stack Developer</h3>
+<img align="right" alt="foto" width"200" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+
+
 <div>
 <h3 align="center">Sobre mi:</h3>
 Soy una persona que le gusta desarrollarse tanto personal como profesionalmente en todos los ámbitos posibles, en búsqueda de nuevos desafíos para seguir creciendo. 
