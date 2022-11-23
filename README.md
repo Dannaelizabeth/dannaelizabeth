@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dannaelizabeth&label=Profile%20views&color=0e75b6&style=flat" alt="dannaelizabeth" /> </p>
 <h3 align="center">Full Stack Developer</h3>
-<img align="right" alt="foto" width"800" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align="right" alt="foto" width"25" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 
 <div>
